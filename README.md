@@ -41,3 +41,13 @@ Coming soon!
 
 ---
 Learning one concept at a time.
+
+
+
+### Day 2 — Python Operators
+- Practised arithmetic operators.
+- Used comparison operators.
+- Learned logical operators: `and`, `or`, `not`.
+- Practised assignment operators: `+=` and `-=`.
+- Solved exercises using operators.
+- Practice file: `daily-practice/day-02-operators.py`
