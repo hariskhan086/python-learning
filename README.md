@@ -51,3 +51,12 @@ Learning one concept at a time.
 - Practised assignment operators: `+=` and `-=`.
 - Solved exercises using operators.
 - Practice file: `daily-practice/day-02-operators.py`
+
+
+
+### Day 3 — Conditional Statements
+- Learned `if`, `elif`, and `else`
+- Practised comparison conditions and nested `if`
+- Checked even and odd numbers
+- Completed conditional logic practice
+- File: `daily-practice/day-03-conditionals.py`
