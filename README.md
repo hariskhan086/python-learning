@@ -60,3 +60,13 @@ Learning one concept at a time.
 - Checked even and odd numbers
 - Completed conditional logic practice
 - File: `daily-practice/day-03-conditionals.py`
+
+
+
+
+### Day 4 — Python Loops
+- Learned `for` and `while` loops
+- Practised `range()` and looping through lists
+- Calculated the sum of numbers
+- Created a multiplication table
+- File: `daily-practice/day-04-loops.py`
