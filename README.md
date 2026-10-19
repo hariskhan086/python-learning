@@ -70,3 +70,12 @@ Learning one concept at a time.
 - Calculated the sum of numbers
 - Created a multiplication table
 - File: `daily-practice/day-04-loops.py`
+
+
+### Day 5 — Python Lists
+- Learned how to create and access lists
+- Practised indexing and changing items
+- Used `append()`, `insert()`, `remove()`, and `pop()`
+- Practised looping through lists
+- Used `len()`, `sum()`, `min()`, and `max()`
+- File: `daily-practice/day-05-lists.py`
