@@ -79,3 +79,21 @@ Learning one concept at a time.
 - Practised looping through lists
 - Used `len()`, `sum()`, `min()`, and `max()`
 - File: `daily-practice/day-05-lists.py`
+
+
+### Day 6 — Python Revision and Practice
+
+**Topics covered:**
+- Variables and data types
+- Arithmetic, comparison, and logical operators
+- Conditional statements: `if`, `elif`, `else`, and nested `if`
+- `for` loops, `while` loops, and `range()`
+- Multiplication tables and number calculations
+- Lists, indexing, and list methods
+- List operations using loops and conditions
+- Counting positive, negative, and zero values
+- Finding the largest number using a loop
+- Mini project: Marks Analyzer
+
+**Practice file:** `daily-practice/day-06-revision-exercises.py`
+
