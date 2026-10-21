@@ -97,3 +97,20 @@ Learning one concept at a time.
 
 **Practice file:** `daily-practice/day-06-revision-exercises.py`
 
+
+### Day 7 — Python Functions
+
+**Topics covered:**
+- Defining and calling functions using `def`
+- Parameters and arguments
+- Returning values using `return`
+- Arithmetic functions
+- Conditional statements inside functions
+- Default parameters
+- Processing lists with functions
+- Loops and counters
+- Handling empty lists and division by zero
+- Mini project: Student Marks Analyzer
+
+**Practice file:** `daily-practice/day-07-functions.py`
+
