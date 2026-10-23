@@ -114,3 +114,21 @@ Learning one concept at a time.
 
 **Practice file:** `daily-practice/day-07-functions.py`
 
+### Day 8 — Python Exercise Day
+
+**Topics covered:**
+- Arithmetic operations and simple calculator
+- Functions with return values
+- Conditional statements and number analysis
+- Loops and multiplication tables
+- List statistics and duplicate removal
+- Counting even and odd numbers
+- Grade calculator with input validation
+- While loops and password attempt simulation
+- Expense analysis using functions
+- Mini project: Expense Analyzer
+
+**Practice file:** `daily-practice/day-08-exercise-practice.py`
+
+
+
