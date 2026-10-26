@@ -131,4 +131,16 @@ Learning one concept at a time.
 **Practice file:** `daily-practice/day-08-exercise-practice.py`
 
 
+### Day 9 — Python Sets
+
+**Topics covered:**
+- Creating sets and understanding unique elements
+- Removing duplicate values from lists
+- Adding elements using `add()` and `update()`
+- Removing elements using `remove()`, `discard()`, `pop()`, and `clear()`
+- Checking membership using `in` and `not in`
+- Set union and intersection
+
+**Practice file:** `daily-practice/day-09-sets.py`
+
 
