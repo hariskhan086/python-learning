@@ -143,4 +143,15 @@ Learning one concept at a time.
 
 **Practice file:** `daily-practice/day-09-sets.py`
 
+### Day 10 — Python Dictionaries
+
+**Topics covered:**
+- Creating dictionaries
+- Accessing values using keys
+- Adding and updating items
+- Removing items using `pop()`
+- Looping through dictionaries using `items()`
+- Checking whether a key exists
+
+**Practice file:** `daily-practice/day-10-dictionaries.py`
 
