@@ -155,3 +155,13 @@ Learning one concept at a time.
 
 **Practice file:** `daily-practice/day-10-dictionaries.py`
 
+### Day 11 — Functions with Arguments
+
+**Topics covered:**
+- Passing arguments to functions
+- Using one or multiple parameters
+- Returning values with `return`
+- Using default arguments
+- Combining functions with conditional statements
+
+
