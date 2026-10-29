@@ -176,3 +176,20 @@ Learning one concept at a time.
 **Practice file:** `daily-practice/day-12-f-strings.py`
 
 
+## Projects
+
+### 1. Love Calculator
+
+A beginner Python project that combines two names and calculates a playful love score by counting letters.
+
+**Concepts used:**
+- User input with `input()`
+- String concatenation
+- String methods: `.lower()` and `.count()`
+- Type conversion using `int()` and `str()`
+- f-strings
+- Conditional statements: `if`, `elif`, and `else`
+
+**Project file:** `projects/love_calculator.py`
+
+
