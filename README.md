@@ -164,4 +164,15 @@ Learning one concept at a time.
 - Using default arguments
 - Combining functions with conditional statements
 
+### Day 12 — Python f-Strings
+
+**Topics covered:**
+- Inserting variables into strings
+- Using multiple variables in a sentence
+- Performing calculations inside f-strings
+- Displaying Boolean expressions
+- Formatting decimal numbers
+
+**Practice file:** `daily-practice/day-12-f-strings.py`
+
 
