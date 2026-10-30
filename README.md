@@ -192,4 +192,17 @@ A beginner Python project that combines two names and calculates a playful love 
 
 **Project file:** `projects/love_calculator.py`
 
+### Day 13 — Python Tuples
+
+**Topics covered:**
+- Creating tuples
+- Accessing tuple elements using indexing
+- Finding tuple length using `len()`
+- Looping through tuples
+- Checking elements using `in`
+- Using `count()` and `index()`
+- Understanding immutable data
+- Converting lists into tuples
+
+**Practice file:** `daily-practice/day-13-tuples.py`
 
