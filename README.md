@@ -206,3 +206,17 @@ A beginner Python project that combines two names and calculates a playful love 
 
 **Practice file:** `daily-practice/day-13-tuples.py`
 
+### Project 2 — Hangman Word Guessing Game
+
+A beginner-friendly word guessing game where the player guesses one letter at a time to reveal a randomly selected word.
+
+**Concepts used:**
+- Lists and string operations
+- `random.choice()` for random word selection
+- `while` and `for` loops
+- Conditional statements
+- User input and input validation
+- Tracking lives and guessed letters
+- Win and lose conditions
+
+**Project file:** `projects/hangman.py`
