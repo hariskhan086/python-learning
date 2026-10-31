@@ -220,3 +220,15 @@ A beginner-friendly word guessing game where the player guesses one letter at a 
 - Win and lose conditions
 
 **Project file:** `projects/hangman.py`
+
+### Day 14 — Dictionary Practice
+
+**Topics covered:**
+- Creating and accessing dictionaries
+- Adding and updating dictionary items
+- Looping through dictionaries using `items()`
+- Using dictionary values in conditional statements
+- Student information management practice
+
+**Practice file:** `daily-practice/day-14-dictionary-practice.py`
+
