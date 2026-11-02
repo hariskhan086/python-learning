@@ -232,3 +232,16 @@ A beginner-friendly word guessing game where the player guesses one letter at a 
 
 **Practice file:** `daily-practice/day-14-dictionary-practice.py`
 
+### Day 15 — Python While Loops
+
+**Topics covered:**
+- Repeating code using `while`
+- Using conditions to control loops
+- Incrementing and decrementing variables
+- Creating countdowns
+- Using `break` to stop a loop
+- Calculating totals with loops
+- Avoiding infinite loops
+
+**Practice file:** `daily-practice/day-15-while-loops.py`
+
