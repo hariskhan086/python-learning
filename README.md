@@ -245,3 +245,15 @@ A beginner-friendly word guessing game where the player guesses one letter at a 
 
 **Practice file:** `daily-practice/day-15-while-loops.py`
 
+### Day 16 — Functions with Return Values
+
+**Topics covered:**
+- Understanding the `return` statement
+- Returning values from functions
+- Storing returned values in variables
+- Difference between `print()` and `return`
+- Using return values with conditions
+- Performing calculations inside functions
+
+**Practice file:** `daily-practice/day-16-functions-with-return.py`
+
