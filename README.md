@@ -257,3 +257,15 @@ A beginner-friendly word guessing game where the player guesses one letter at a 
 
 **Practice file:** `daily-practice/day-16-functions-with-return.py`
 
+### Day 17 — Python Variable Scope
+
+**Topics covered:**
+- Understanding global variables
+- Understanding local variables
+- Accessing global variables inside functions
+- Using local and global variables with the same name
+- Using the `global` keyword
+- Returning values from functions
+
+**Practice file:** `daily-practice/day-17-variable-scope.py`
+
